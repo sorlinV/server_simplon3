@@ -1,6 +1,6 @@
 # server simplon 3
 ## Make a server for simplon promo 3
-###Step to create server:
+### Step to create server:
 1. Write os raspbian on sd cart. [Lien du tuto officiel](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 2. Launch raspberry and connect to default account (user: pi and password: raspberry).
 3. Configure raspbian with
