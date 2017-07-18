@@ -26,6 +26,11 @@
 root /home;
 ```
 7. create all user:
+```
+cd /var/www/html
+./make_site.sh
+```
+8. install and congig php and mysql:
 ```js
-// ======= IN COMMING =======
+// ===== IN COMMING =====
 ```
